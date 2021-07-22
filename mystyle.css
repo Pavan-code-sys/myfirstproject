@@ -1,0 +1,186 @@
+.menucontainer{
+			
+			height:100px;
+			width:100%;
+			display:fixed;
+			background:gray;
+			
+		
+			}
+			.menucontainer img{
+			border-radius:70%;
+			}
+			.menucontainer h4{
+			color:white;
+			text-shadow:3px 6px 9px black;
+			font-size:40px;
+			float:left;
+			margin-top:20px;
+			margin-left:60px;
+			}
+			.menucontainer b{
+			float:right;
+			margin-top:50px;
+			margin-right:50px;
+			}
+			.custom-button{
+			background:transparent;
+			color:white;
+			cellspacing:10px;
+			cursor:pointer;
+			border:none;
+			font-size:23px;
+			}
+			.custom-button:hover{
+			color:gray;
+			}
+			.dpcontainer{
+			
+			height:550px;
+			width:1366px;
+			
+			
+			}
+			body{
+				background-image:url("images/bgimage1.jpg");
+				width:1366px;
+				height:550px;
+				repeat:none;
+			}
+			.leftcontainer{
+			
+			height:550px;
+			width:67%;
+			float:left;
+			display:fixed;
+			}
+			.leftcontainer p{
+			margin-left:55px;
+			color:gray;
+			font-size:20px;
+			margin-top:90px;
+			text-shadow:6px 7px 8px black;
+			
+			}
+			.leftcontainer h1{
+			font-size:50px;
+			margin-left:55px;
+			color:gray;
+			text-shadow:6px 7px 8px black;
+			}
+			.leftcontainer b{
+			font-size:30px;
+			margin-left:55px;
+			color:gray;
+			text-shadow:6px 7px 8px black;
+			}
+			.leftcontainer strong{
+			margin-left:55px;
+			color:white;
+			font-size:17px;
+			margin-top:50px;
+			text-shadow:0px 0px 4px black;
+			}
+			.leftcontainer i{
+			color:green;
+			}
+			.rightcontainer{
+			
+			height:550px;
+			width:33%;
+			float:left;
+			display:fixed;s
+			
+			}
+			.aboutt {
+			height:650px;
+			width:1366px;
+			background:white;
+			
+			}
+			.lefttcontainer{
+			
+			height:650px;
+			width:683px;
+			float:left;
+			}
+			.lefttcontainer u p{
+			font-size:40px;
+			margin-left:550px;
+			color:black;
+			margin-top:50px;
+			}
+			.lefttcontainer img{
+			margin-left:200px;
+			box-shadow:1px 2px 7px black;
+			margin-top:25px;
+			}
+			.righttcontainer{
+			
+			height:650px;
+			width:683px;
+			float:left;
+			}
+			.righttcontainer h3{
+			text-align:center;
+			margin-top:120px;
+			color:brown;
+			}
+			.righttcontainer h4{
+			font-size:20px;
+			color:rgba(7, 99, 102, 0.897);
+			}
+			.skillscontainer{
+			
+			height:800px;
+			width:1366pxs;
+			background: rgba(7, 99, 102, 0.897);
+			}
+			.leftttcontainer{
+			
+			height:500px;
+			width:683px;
+			float:left;
+			}
+			.leftttcontainer h2{
+			text-align:center;
+			margin-top:150px;
+			}
+			.leftttcontainer p{
+			margin-left:20px;
+			font-size:20px;
+			color:white;
+			}
+			.rightttcontainer{
+			
+			height:500px;
+			width:683px;
+			float:left;
+			}
+			.rightttcontainer{
+			margin-top:240px;
+			font-size:20px;
+			
+			}
+			.rightttcontainer span{
+			margin-left:60px;
+			color:white;
+			}
+			
+			.check{
+			
+			height:250px;
+			width:1366px;
+			background:white;
+			}
+			.check h2{
+			text-align:center;
+			}
+			.check h5{
+			text-align:center;
+			color:gray;
+			}
+			.check p{
+			text-align:center;
+			color:gray;
+			}
